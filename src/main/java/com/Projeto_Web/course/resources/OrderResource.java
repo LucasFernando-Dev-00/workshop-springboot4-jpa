@@ -2,9 +2,7 @@ package com.Projeto_Web.course.resources;
 
 
 import com.Projeto_Web.course.entities.Order;
-import com.Projeto_Web.course.entities.User;
-import com.Projeto_Web.course.srevices.OrderService;
-import com.Projeto_Web.course.srevices.UserService;
+import com.Projeto_Web.course.services.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

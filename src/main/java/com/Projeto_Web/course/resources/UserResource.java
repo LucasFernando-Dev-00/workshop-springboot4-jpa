@@ -2,8 +2,7 @@ package com.Projeto_Web.course.resources;
 
 
 import com.Projeto_Web.course.entities.User;
-import com.Projeto_Web.course.srevices.UserService;
-import jakarta.persistence.SqlResultSetMapping;
+import com.Projeto_Web.course.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

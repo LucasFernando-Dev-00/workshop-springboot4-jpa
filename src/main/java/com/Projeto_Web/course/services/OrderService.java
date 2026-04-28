@@ -1,4 +1,4 @@
-package com.Projeto_Web.course.srevices;
+package com.Projeto_Web.course.services;
 
 
 import com.Projeto_Web.course.entities.Order;

@@ -1,9 +1,7 @@
-package com.Projeto_Web.course.srevices;
+package com.Projeto_Web.course.services;
 
 import com.Projeto_Web.course.entities.Category;
-import com.Projeto_Web.course.entities.Order;
 import com.Projeto_Web.course.repositories.CategoryRepository;
-import com.Projeto_Web.course.repositories.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
